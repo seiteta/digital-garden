@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: f10e.eu
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi, I'm Fred.
+This website is my digital garden. Pretty empty for now. But I'm sowing the [First seed].
