@@ -1,5 +1,5 @@
 ---
-title: Learning and practice
+title: Learning is practice
 draft: false
 tags:
   - Seedling
