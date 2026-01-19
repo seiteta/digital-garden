@@ -1,8 +1,7 @@
 ---
 title: First seed
-draft: false
 tags:
-  - Seedling
+  - seedling
 ---
 
 Publishing the first article on a website is always the scariest.
