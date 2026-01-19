@@ -2,9 +2,9 @@
 title: Learning is practice
 draft: false
 tags:
-  - Seedling
+  - seedling
   - AI
-  - Learning
+  - learning
 ---
 
 Learning a skill requires practice.
