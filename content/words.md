@@ -1,5 +1,7 @@
 ---
 title: Words I’m glad I found
+tags:
+  - list
 ---
 
 ### [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
