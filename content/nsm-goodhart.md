@@ -1,5 +1,5 @@
 ---
-title: Metrics and counter-metrics
+title: Metrics & counter-metrics
 tags:
   - seedling
   - product management
