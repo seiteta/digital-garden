@@ -2,7 +2,7 @@
 title: AI Score
 tags:
   - AI
-  - Craftmanship
+  - craftmanship
 ---
 
 ## Why do we need an ai/score?
