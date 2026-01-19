@@ -8,4 +8,4 @@ This website is my digital garden. Or my [[compost]] heap. Something organic and
 
 Pretty empty for now. But I'm sowing the [[first seed]].
 
-`f10e` is a [numeronym](words) based on my name, and `.eu` is for Europe.
+`f10e` is a [numeronym](words#numeronym) based on my name, and `.eu` is for Europe.
