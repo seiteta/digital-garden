@@ -1,5 +1,7 @@
 ---
 title: Useful adages
+tags:
+  - list
 ---
 
 ### [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart's_law)
