@@ -1,5 +1,6 @@
 ---
 title: AI Score
+created: 2026-01-19
 tags:
   - AI
   - craftmanship
