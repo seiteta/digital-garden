@@ -1,5 +1,6 @@
 ---
 title: Words I’m glad I found
+created: 2026-01-12
 tags:
   - list
 ---
