@@ -1,5 +1,6 @@
 ---
 title: Useful heuristics
+created: 2026-01-27
 tags:
   - list
 ---
