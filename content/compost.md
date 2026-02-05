@@ -1,5 +1,6 @@
 ---
 title: Compost
+created: 2026-01-13
 tags:
   - seedling
 ---
