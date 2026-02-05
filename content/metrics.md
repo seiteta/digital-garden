@@ -1,6 +1,6 @@
 ---
 title: Metrics & counter-metrics
-created: 20260119
+created: 2026-01-19
 tags:
   - seedling
   - product management
