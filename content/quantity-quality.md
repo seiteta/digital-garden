@@ -36,7 +36,7 @@ As Rick Rubin puts it in The Creative Act, making art is connecting to the endle
 This is why when we're creating, the most important thing is to keep our creativity flowing. The moment we feel a slowdown, we should redirect our creativity somewhere else, anywhere it doesn't matter. It just has to keep flowing. Like rivers creating new meanders.
 
 ![[https://media-proxy.artblocks.io/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/284000941.png]]
-*[Ancient Courses of Fictional Rivers #941)(https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/284000941)*
+*[Ancient Courses of Fictional Rivers #941](https://www.artblocks.io/token/1/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/284000941)*
 
 From this [story](https://seths.blog/2009/12/fear-of-bad-ideas/), we know than Seth Godin lives in art mode:
 > Someone asked me where I get all my good ideas, explaining that it takes him a month or two to come up with one and I seem to have more than that. I asked him how many bad ideas he has every month. He paused and said, "none."
