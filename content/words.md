@@ -5,6 +5,9 @@ tags:
   - list
 ---
 
+### [Nadir](https://en.wikipedia.org/wiki/Nadir)
+The opposite of zenith aka when the sun is at his lowest.
+
 ### [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
 A word composed partially or wholly of numerals. Example: k8s (for Kubernetes) or a11y (for accessibility)
 
