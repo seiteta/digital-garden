@@ -45,7 +45,7 @@ In art mode, our goal is to produce as much art as possible, keep the creativity
 
 --- 
 Cherry picked empirical evidence:
-- [[appart-interview]]
+- [[apparat-interview]]
 
 --- 
 This text is [ai/0](ai-score#ai0)
