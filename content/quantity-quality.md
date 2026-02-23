@@ -2,7 +2,7 @@
 title: Can quantity improve quality?
 created: 2026-02-05
 tags:
-  - seedling
+  - budding
   - product-management
   - creativiy
 ---
@@ -42,6 +42,10 @@ From this [story](https://seths.blog/2009/12/fear-of-bad-ideas/), we know than S
 > Someone asked me where I get all my good ideas, explaining that it takes him a month or two to come up with one and I seem to have more than that. I asked him how many bad ideas he has every month. He paused and said, "none."
 
 In art mode, our goal is to produce as much art as possible, keep the creativity flowing. For the hope that sometimes we will create something brilliant. Or maybe because it is the only way to do that.
+
+--- 
+Cherry picked empirical evidence:
+- [[appart-interview]]
 
 --- 
 This text is [ai/0](ai-score#ai0)
