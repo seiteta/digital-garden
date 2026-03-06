@@ -1,5 +1,5 @@
 ---
-title: Communication: audio vs text
+title: Differences between audio and text
 created: 2026-03-06
 tags:
   - seedling
