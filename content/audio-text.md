@@ -7,8 +7,7 @@ tags:
 ---
 
 ### Why audio-based communication sucks
-I hate voice messages. Why would I listen to your 3 minutes rant?
-I could have read your text in 10 second instead, and get the same information.
+I hate voice messages. Why would I listen to your 3 minutes rant when I could have read your text in 10 second instead, and get the same information?
 Because voice messages doesn't force the sender to distill their thoughts.
 All the mental workload of summarizing is transferred to the receiver, who have to process unorganized discourse.
 This lack of distillation also makes voice messages' signal-to-noise ratio pretty low; they are full of filler words, repetition, hum, you know…
