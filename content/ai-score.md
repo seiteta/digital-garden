@@ -26,7 +26,7 @@ The name of the initiative isn't very inspired, but their scale is much more com
 
 They also include nice donut charts to illustrate each item on the scale. It's funny to see how close the name of our scales are: ai/number vs AI:number. The idea must have been floating in the noosphere.
 
-Anyway, I'm sunsetting my ai/Score and will use the AI:M Score from now on. We have enough standards…
+Anyway, I'm sunsetting my ai/Score and will use the AI:M Score from now on. Because we have enough standards…
 
 ![[https://imgs.xkcd.com/comics/standards.png]]
 
