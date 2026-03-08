@@ -6,7 +6,7 @@ tags:
   - craftmanship
 ---
 
-The following text is [AI:0]((ai-score).
+The following text is [AI:0](ai-score).
 
 --- 
 
