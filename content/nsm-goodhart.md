@@ -2,7 +2,7 @@
 title: Metrics & counter-metrics
 tags:
   - seedling
-  - product management
+  - product-management
 ---
 
 If it's true that "when a measure becomes a target, it ceases to be a good measure", how we can use North Star Metrics (NSM)?
