@@ -1,5 +1,6 @@
 ---
 title: Metrics & counter-metrics
+created: 2026-01-19
 tags:
   - seedling
   - product-management
@@ -10,7 +11,7 @@ If it's true that "when a measure becomes a target, it ceases to be a good measu
 ## Short memory
 
 To aligned Scaleway's AI Tribe in 2026, I choose one NSM for each of our squads.
-The first meeting I shared those NSMs, a lead engineer cleverly mentions [Goodhart’s law](adages#goodharts-law).
+The first meeting I shared those NSMs, a lead engineer cleverly mentions [Goodhart’s law](heuristics#goodharts-law).
 I've collected it in my [[adages]] list like last week, but totally forgot it when I was designing my super smart metrics.
 
 This led me to this question:

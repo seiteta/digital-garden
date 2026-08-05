@@ -1,6 +1,6 @@
 ---
 title: Learning is practice
-draft: false
+created: 2026-01-12
 tags:
   - seedling
   - AI

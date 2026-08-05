@@ -1,5 +1,6 @@
 ---
 title: First seed
+created: 2026-01-09
 tags:
   - seedling
 ---
