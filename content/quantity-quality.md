@@ -48,4 +48,4 @@ Cherry picked empirical evidence:
 - [[apparat-interview]]
 
 --- 
-This text is [ai/0](ai-score#ai0)
+This text is [[ai-0]]

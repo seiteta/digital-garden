@@ -59,4 +59,4 @@ This is why some many people read in bed to fall asleep.
 
 
 --- 
-This text is [ai/0](ai-score#ai0)
+This text is [[ai-0]]
